@@ -1,0 +1,7 @@
+{
+  "name": "AI-Based Bank Statement Intelligence",
+  "description": "AI-powered bank statement intelligence platform that extracts transactions from PDFs/SMS/Images, categorizes spending, detects anomalies, identifies recurring subscriptions, and computes financial health scores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
